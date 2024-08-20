@@ -3,7 +3,7 @@
   "author": "Beatriz Santana",
   "version": "0.1.0",
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.3",
     "dotenv": "^16.4.5",
     "express": "^4.14.0",
